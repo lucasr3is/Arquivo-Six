@@ -4,4 +4,4 @@
 ## Quinto commit
 ## Push origin temp
 ## Merge temp e dev
-## Push origin dev
+## Push origin dev.
