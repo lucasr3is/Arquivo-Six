@@ -15,7 +15,7 @@
 ## Terceiro commit
 ## Escrever linha js 1
 ## Quarto commit
-## Push branch dev
+## Push origin dev
 ## Criar branch temp
 ## Adicionar linha js3 e js 4
 ## Criar arquivo js 5
